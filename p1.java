@@ -1,5 +1,3 @@
-package SEM_5PCPH;
-
  //. Welcome to Bridgelabz!
 // Write a program that prints "Welcome to Bridgelabz!" to the screen.
 public class p1 {

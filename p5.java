@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 //. Power Calculation
 // Write a program that takes two numbers as input: a base and an exponent,

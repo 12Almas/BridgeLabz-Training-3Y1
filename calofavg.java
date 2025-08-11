@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 // Calculate Average of Three Numbers
 // Write a program that takes three numbers as input from the user and prints

@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 //  Area of a Circle
 // Write a program to calculate the area of a circle. Take the radius as input

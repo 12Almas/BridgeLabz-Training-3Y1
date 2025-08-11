@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 // perimeter of a Rectangle
 // Write a program to calculate the perimeter of a rectangle. Take the length

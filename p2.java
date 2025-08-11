@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 public class p2 {
     // Add Two Numbers

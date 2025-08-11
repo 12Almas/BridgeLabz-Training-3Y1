@@ -1,4 +1,4 @@
-package SEM_5PCPH;
+
  //. Calculate Simple Interest
 // Write a program to calculate simple interest using the formula:
 // Simple Interest = (Principal * Rate * Time) / 100.

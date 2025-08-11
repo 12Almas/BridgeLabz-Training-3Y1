@@ -1,4 +1,3 @@
-package SEM_5PCPH;
 
 //Celsius to Fahrenheit Conversion
 // Write a program that takes the temperature in Celsius as input and converts
